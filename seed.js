@@ -86,155 +86,133 @@ var seedInventory = function() {
     quantity: 5,
     type: 'food',
     price: 750,
-    description: 'Best combination of the best burger in town, best lettuce, best tomatoes and best special sauce. Comes with best french fries.',
-    image_url: 'http://media2.s-nbcnews.com/i/newscms/2016_11/1017896/pawpa-twitter-sad-today-tease-1-160318_b1449db6f64e0c3371911ee963ef3633.jpg'
+    description: 'Best combination of the best burger in town, best lettuce, best tomatoes and best special sauce. Comes with best french fries.'
   }, {
     title: 'The Italian Dream',
     quantity: 8,
     type: 'food',
     price: 850,
-    description: "Plump frankfurter wrapped in a calzone crust. Very low in gluten and very high in Italian authenticity. Forget pizza and pasta. Make your dream a reality with this Italian sandwich!",
-    image_url: 'http://t.fod4.com/t/b8e5e6ed87/c1920x1080_40.jpg'
+    description: "Plump frankfurter wrapped in a calzone crust. Very low in gluten and very high in Italian authenticity. Forget pizza and pasta. Make your dream a reality with this Italian sandwich!"
   }, {
     title: 'The Magic Carpet',
     quantity: 8,
     type: 'food',
     price: 850,
-    description: 'Falafel sandwich with mediterranean sauce and hummus',
-    image_url: 'http://www.traderjoes.com/images/fearless-flyer/uploads/article-1180/98020-falafel-wrap450%20copy.png'
+    description: 'Falafel sandwich with mediterranean sauce and hummus'
   }, {
     title: 'The Mexican Vacation',
     quantity: 9,
     type: 'food',
     price: 700,
-    description: 'Spicy beef tacos with a normal avocado.',
-    image_url: 'http://65.media.tumblr.com/ab3038a612836ce04793e91ced740264/tumblr_nmvnvqQbW91re0c97o1_1280.jpg'
+    description: 'Spicy beef tacos with a normal avocado.'
   }, {
     title: 'The Chicken Fingers',
     quantity: 5,
     type: 'food',
     price: 650,
-    description: 'Fried chicken served on a piece of lettuce served on a plate.',
-    image_url: 'http://img03.deviantart.net/a58b/i/2013/009/1/3/chicken_nugget_from_jack_in_the_box_by_violetfireflies-d5r0k56.jpg'
+    description: 'Fried chicken served on a piece of lettuce served on a plate.'
   }, {
     title: 'The Double Dog',
     quantity: 5,
     type: 'food',
     price: 550,
-    description: 'Two for you, none for your friend! (Unless you order more than one order haha!) Hot dog with German sausage and swiss cheese!',
-    image_url: 'http://i.imgur.com/buRrvfr.jpg'
+    description: 'Two for you, none for your friend! (Unless you order more than one order haha!) Hot dog with German sausage and swiss cheese!'
   }, {
     title: 'The French Fries',
     quantity: 5,
     type: 'side',
     price: 500,
-    description: 'Our french fries are made with sea salt and the best spices in town!',
-    image_url: 'http://i.imgur.com/VJaBd7H.jpg'
+    description: 'Our french fries are made with sea salt and the best spices in town!'
   }, {
     title: 'The Tempura Mozzarella',
     quantity: 5,
     type: 'side',
     price: 500,
-    description: 'Japanese Italian fusion at its best',
-    image_url: 'http://i.imgur.com/IZZW0OZ.jpg'
+    description: 'Japanese Italian fusion at its best'
   }, {
     title: 'The Alloco',
     quantity: 5,
     type: 'side',
     price: 500,
-    description: 'An African famous fried plantain snack, often served with chili pepper and onions.',
-    image_url: 'http://i.imgur.com/RgKJwyd.jpg'
+    description: 'An African famous fried plantain snack, often served with chili pepper and onions.'
   }, {
     title: 'The Let Me Be',
     quantity: 5,
     type: 'side',
     price: 500,
-    description: 'Mini burgers prepared with our special spices.',
-    image_url: "http://i.imgur.com/oXSGQTx.jpg"
+    description: 'Mini burgers prepared with our special spices.'
   }, {
     title: 'The Berry Christmas',
     quantity: 100,
     type: 'drink',
     price: 700,
-    description: "Santa came early with this perfect combination of watermelon and apple. It's like Christmas for your mouth! Even if you have been a bad homo sapien.",
-    image_url: "http://i.imgur.com/yyqyD2d.jpg"
+    description: "Santa came early with this perfect combination of watermelon and apple. It's like Christmas for your mouth! Even if you have been a bad homo sapien."
   }, {
     title: 'The Citrus Curprise',
     quantity: 100,
     type: 'drink',
     price: 700,
-    description: "Sweetened lime and orange in one drink. How did we do it? Outstanding! But how did we do it? It's so good!",
-    image_url: "http://i.imgur.com/gvh0lIk.jpg"
+    description: "Sweetened lime and orange in one drink. How did we do it? Outstanding! But how did we do it? It's so good!"
   }, {
     title: 'The Mango Mix',
     quantity: 100,
     type: 'drink',
     price: 700,
-    description: "Fresh mangoes and pineapple come together in a single delicious beverage! We now only use the yellow part of the pineapple when making this delicious drink.",
-    image_url: "http://i.imgur.com/bQ8Ip5W.jpg"
+    description: "Fresh mangoes and pineapple come together in a single delicious beverage! We now only use the yellow part of the pineapple when making this delicious drink."
   }, {
     title: 'The Cherry Apple Cobbler',
     quantity: 100,
     type: 'drink',
     price: 700,
-    description: "We threw two pies in a blender and this happened!",
-    image_url: "http://i.imgur.com/bppwp9P.jpg"
+    description: "We threw two pies in a blender and this happened!"
   }, {
     title: 'The Blueberry Bubbly',
     quantity: 100,
     type: 'drink',
     price: 700,
-    description: "A local favorite since 2016.",
-    image_url: "http://i.imgur.com/KleYqtC.jpg"
+    description: "A local favorite since 2016."
   }, {
     title: 'The Oranger Creamer',
     quantity: 100,
     type: 'drink',
     price: 700,
-    description: "Amazing Orange and Vanilla.  Very yummy, soon to be in your tummy.",
-    image_url: "http://i.imgur.com/2Q3Ftrx.jpg"
+    description: "Amazing Orange and Vanilla.  Very yummy, soon to be in your tummy."
   }, {
     title: 'The Original Phrosty',
     quantity: 100,
     type: 'alcoholic_drink',
     price: 1200,
-    description: 'The Phrosty that started it all... and almost ended it all! The Original Phrosty is now officially kind of safe, yet still tastes just as good as ever! Do not drink if you ever plan to travel to a country that requires a yellow fever vaccination or if you ever plan to receive a yellow fever vaccination for any reason.',
-    image_url: 'http://i.imgur.com/unv7Pcq.jpg'
+    description: 'The Phrosty that started it all... and almost ended it all! The Original Phrosty is now officially kind of safe, yet still tastes just as good as ever! Do not drink if you ever plan to travel to a country that requires a yellow fever vaccination or if you ever plan to receive a yellow fever vaccination for any reason.'
   }, {
     title: "The I'm Not Getting Involved",
     quantity: 100,
     type: 'alcoholic_drink',
     price: 1200,
-    description: 'Shove a straw in your mouth and skip out on the drama! Who needs bad vibes when you can sip your way into banana-coconut bliss.',
-    image_url: 'http://i.imgur.com/ovtwMDq.png'
+    description: 'Shove a straw in your mouth and skip out on the drama! Who needs bad vibes when you can sip your way into banana-coconut bliss.'
   }, {
     title: 'The Thank You Berry Much, But No Thanks',
     quantity: 100,
     type: 'alcoholic_drink',
     price: 1200,
-    description: 'If something sounds sketchy, then you have to say "No Thanks". Unless, of course, someone is offering you a berry-infused, and berry delicious, Phrosty.',
-    image_url: 'http://i.imgur.com/sbYV940.png'
+    description: 'If something sounds sketchy, then you have to say "No Thanks". Unless, of course, someone is offering you a berry-infused, and berry delicious, Phrosty.'
   }, {
     title: "The I'm My Own Date",
     quantity: 100,
     type: 'alcoholic_drink',
     price: 1200,
-    description: 'Bring on the dates, cacao nibs, chocolate, and secret ingredient just released in the US. With this Phrosty in hand, you can forget other guys and girls and date yourself!',
-    image_url: 'http://i.imgur.com/Wdvo7cg.png'
+    description: 'Bring on the dates, cacao nibs, chocolate, and secret ingredient just released in the US. With this Phrosty in hand, you can forget other guys and girls and date yourself!'
   }, {
     title: 'The Hair of the Dog',
     quantity: 100,
     type: 'alcoholic_drink',
     price: 1200,
-    description: "Now available all day! Yesterday's Phrosty got you feeling under the weather? Suck another one down and you'll be feeling fine in no time. Officially no longer has any hair.",
-    image_url: 'http://i.imgur.com/y6keCIZ.png'
+    description: "Now available all day! Yesterday's Phrosty got you feeling under the weather? Suck another one down and you'll be feeling fine in no time. Officially no longer has any hair."
   }, {
     title: "The That's My Bag",
     quantity: 100,
     type: 'alcoholic_drink',
     price: 1200,
-    description: "Who cares if it isn't your bag? Who cares if you're making a scene? After this grey-colored dream of a Phrosty, you deserve any damn bag you want! Made with pears and (pretty) edible stones.",
-    image_url: 'http://i.imgur.com/pqYAI16.png'
+    description: "Who cares if it isn't your bag? Who cares if you're making a scene? After this grey-colored dream of a Phrosty, you deserve any damn bag you want! Made with pears and (pretty) edible stones."
   }];
 
   var creatingInventory = items.map(function(item) {
