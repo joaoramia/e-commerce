@@ -9,8 +9,8 @@ app.directive('navbar', function ($rootScope, AuthService, AUTH_EVENTS, $state, 
             scope.items = [
                 { label: 'Home', state: 'home' },
                 { label: 'Food', state: 'food' },
-                { label: 'Drinks', state: 'drinks' },
-                { label: 'Jranks', state: 'jranks', auth: true }
+                { label: 'Drinks', state: 'drinks' }
+                // { label: 'Jranks', state: 'jranks', auth: true }
             ];
 
             CartFactory.getQtyTotal()
@@ -20,11 +20,11 @@ app.directive('navbar', function ($rootScope, AuthService, AUTH_EVENTS, $state, 
 
             scope.user = null;
 
-            scope.confirmAge = function(label) {
-                if(label === 'Jranks'){
-                    window.confirm("Click OK if you are old enough to jrank!")
-                }
-            }
+            // scope.confirmAge = function(label) {
+                // if(label === 'Jranks'){
+                //     window.confirm("Click OK if you are old enough to jrank!")
+                // }
+            // }
 
             scope.isLoggedIn = function () {
                 return AuthService.isAuthenticated();
